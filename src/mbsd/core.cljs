@@ -61,7 +61,6 @@
    [smd (:sunrise-hr data) (:sunrise-min data) (:maas data) (:tithi data) (:paksha data) (:tithi data) (:vaar data) (:year data) (:tithi data) (:maas data) (:day data) (:month data) (:nakshatra data) (:ritu data)]
    [foot]])
 
-
 ;; -------------------------
 ;; Initialize app
 
