@@ -1,0 +1,10 @@
+{
+    "name": "Mahabharat Samvat Dindarshika",
+    "short_name": "MBSD",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "https://vaibhawc.github.io/mbsd/"
+  }
